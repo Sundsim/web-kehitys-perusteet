@@ -133,13 +133,14 @@ h1 {
 
 #card1 {
     background-image: url("images/merimaisema.jpg");
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 
     min-height: 300px;
     color:white;
     padding: 20px;
+    opacity: 20%;
 }
 
 .grayscale-image {
