@@ -88,7 +88,7 @@
         padding: 20px;
     }
 
-    .hero-button {
+    .menu-button {
         display: inline-block;
         background: #d98c3f;
         color: white;
@@ -96,8 +96,4 @@
         text-decoration: none;
         border-radius: 25px;
         margin-top: 20px;
-    }
-
-    .hero-button:hover {
-        background: #b36b2c;
     }
